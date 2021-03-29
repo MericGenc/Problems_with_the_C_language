@@ -6,6 +6,7 @@ The answers I prepared for some problems that are asked to be sent back to unive
 
 I will add regularly every week.
 
+1-Printing a 3-digit number on the screen in the order of hundreds of tens and ones.
 
 
 
