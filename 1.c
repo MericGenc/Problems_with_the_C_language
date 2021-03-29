@@ -1,5 +1,5 @@
 
-// MER›« GEN« 
+// MERi√á GEN√á 
 
 
 #include<stdio.h>
