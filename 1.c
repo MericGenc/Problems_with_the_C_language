@@ -1,5 +1,5 @@
 
-// MERiÇ GENÇ 
+// MERİÇ GENÇ 
 
 
 #include<stdio.h>
