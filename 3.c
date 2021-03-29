@@ -1,6 +1,6 @@
 
 
-//Meriç GENÇ 
+//MERÄ°Ã‡ GENÃ‡ 
 
 
 #include<stdio.h>
