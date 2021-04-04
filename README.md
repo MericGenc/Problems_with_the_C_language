@@ -12,6 +12,8 @@ I will add regularly every week.
 
 3-Learning the weight value according to the body mass index and giving the user the option to do it again if he / she wants.
 
+4-The code indicating how many digits the entered numeric value is
+
 
 
 
